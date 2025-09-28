@@ -1,6 +1,8 @@
 # 智谱AI 问答助手
 
 一个基于智谱AI GLM-4.5模型的网页版问答系统，支持Markdown渲染和代码块复制功能。
+<img width="1581" height="1237" alt="image" src="https://github.com/user-attachments/assets/99d2a5ab-52a0-4e97-bddf-26accdc1078b" />
+
 
 ## 功能特性
 
